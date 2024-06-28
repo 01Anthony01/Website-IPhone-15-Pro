@@ -11,10 +11,15 @@
   },
   "dependencies": {
     "@gsap/react": "^2.1.1",
+    "@react-three/drei": "^9.107.0",
+    "@react-three/fiber": "^8.16.8",
+    "@sentry/react": "^8.12.0",
+    "@sentry/vite-plugin": "^2.20.1",
     "gsap": "^3.12.5",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "styled-components": "^6.1.11"
+    "styled-components": "^6.1.11",
+    "three": "^0.165.0"
   },
   "devDependencies": {
     "@types/react": "^18.3.3",
